@@ -1,5 +1,6 @@
-flask
-qrcode
-pillow
-gunicorn
-requests
+Flask
+pandas
+scikit-learn
+joblib
+matplotlib
+seaborn
